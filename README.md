@@ -20,9 +20,8 @@ A Discord bot designed to boost productivity and streamline tasks for individual
 
 ## Usage
 
-- `!task create "Finish report" --due tomorrow`: Creates a task with a deadline.
-- `!remind me "Team meeting" at 3pm`: Sets a reminder for a specific time.
-- `!goals add "Complete project" --progress 0%`: Tracks a new goal with progress updates.
+- `!task "Finish report" tomorrow`: Creates a task with a deadline.
+- `!remind "Team meeting" 3pm`: Sets a reminder for a specific time.
 - `!pomodoro 25`: Starts a 25-minute Pomodoro session.
 - `!help`: Displays a list of available commands and their descriptions.
 
