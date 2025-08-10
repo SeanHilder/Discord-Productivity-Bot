@@ -1,0 +1,24 @@
+{
+  "name": "discord_productivity_bot",
+  "version": "1.0.0",
+  "description": "A Discord bot designed to boost productivity and streamline tasks for individuals and teams. This bot offers tools to manage tasks, set reminders, track goals, and enhance collaboration within your Discord server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanHilder/Discord-Productivity-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanHilder/Discord-Productivity-Bot/issues"
+  },
+  "homepage": "https://github.com/SeanHilder/Discord-Productivity-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "nodemon": "^3.1.10"
+  }
+}
