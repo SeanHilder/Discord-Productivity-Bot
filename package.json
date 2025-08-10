@@ -4,6 +4,8 @@
   "description": "A Discord bot designed to boost productivity and streamline tasks for individuals and teams. This bot offers tools to manage tasks, set reminders, track goals, and enhance collaboration within your Discord server.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +21,7 @@
   "homepage": "https://github.com/SeanHilder/Discord-Productivity-Bot#readme",
   "dependencies": {
     "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1",
     "nodemon": "^3.1.10"
   }
 }
