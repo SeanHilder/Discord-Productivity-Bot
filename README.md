@@ -7,7 +7,6 @@ A Discord bot designed to boost productivity and streamline tasks for individual
 - **Task Management**: Create, assign, and track tasks with due dates and priorities.
 - **Reminders**: Set custom reminders for deadlines, meetings, or personal goals.
 - **Time Management**: Integrate Pomodoro timers or daily schedules to stay focused.
-- **Collaboration Tools**: Share tasks, pin important messages, or create quick polls for team decisions.
 
 ## Installation
 
@@ -19,7 +18,6 @@ A Discord bot designed to boost productivity and streamline tasks for individual
 ## Usage
 
 - `!task "Finish report" tomorrow`: Creates a task with a deadline.
-- `!remind "Team meeting" 3pm`: Sets a reminder for a specific time.
 - `!pomodoro 25`: Starts a 25-minute Pomodoro session.
 - `!help`: Displays a list of available commands and their descriptions.
 
